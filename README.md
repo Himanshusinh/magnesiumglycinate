@@ -61,3 +61,4 @@ Then point the `magnesiumglycinate.com` DNS at the host.
 
 By default the form opens the visitor's email app with a pre-filled message to `info@adityachemicals.com`. To receive submissions directly, create a free form endpoint (Formspree, Getform, Basin, etc.), put its URL in `formEndpoint` in `data/site.json`, and rebuild.
 # magnesiumglycinate
+# magnesiumglycinate
