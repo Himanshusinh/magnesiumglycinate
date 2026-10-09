@@ -1,0 +1,579 @@
+{
+  "syncedAt": "2026-10-09T21:35:09.671Z",
+  "source": "https://www.adityachemicals.in",
+  "category": {
+    "title": "Magnesium",
+    "tagline": "Premium bioavailable Magnesium mineral chelates and salts."
+  },
+  "products": [
+    {
+      "slug": "magnesium-aspartate",
+      "sourceSlug": "magnesium-aspartate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-aspartate",
+      "name": "Magnesium Aspartate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya chemicals offers magnesium aspartate a mineral compound formed from magnesium and aspartic acid known for its superior absorption and bioavailability, it is commonly used in advanced nutraceutical and dietary and food formulations. Aditya chemical’s magnesium aspartate is trusted by formulators for its consistent high quality and reliable performance across a wide range of nutritional applications where effective magnesium delivery is essential.",
+      "cas": "72231-13-1",
+      "formula": "C₈H₁₂MgN₂O₈·2H₂O",
+      "iupac": "Magnesium; (3S)-3-amino-4-hydroxy 4-oxobutanoate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Aspartate",
+        "Molecular Formula": "C₈H₁₂MgN₂O₈·2H₂O",
+        "IUPAC Name": "Magnesium; (3S)-3-amino-4-hydroxy 4-oxobutanoate",
+        "CAS Registry No.": "72231-13-1",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Nutritional Supplement",
+          "text": "Prevents deficiencies causing muscle cramps, fatigue, and nerve issues."
+        },
+        {
+          "title": "Skin Care Products",
+          "text": "Hydrates, soothes, and supports natural skin repair in anti-aging creams."
+        },
+        {
+          "title": "Chelating Agent",
+          "text": "Stabilizes metal ions to prevent unwanted reactions in water and metal treatment."
+        },
+        {
+          "title": "Anti-Fatigue Agent",
+          "text": "Relaxes sore muscles and relieves stress in bath salts and recovery lotions."
+        },
+        {
+          "title": "Synergistic Effects",
+          "text": "Combines magnesium and aspartic acid to optimize cellular and metabolic functions."
+        },
+        {
+          "title": "Energy Production Support",
+          "text": "Powers ATP (the body's energy molecule) to combat fatigue."
+        },
+        {
+          "title": "Muscle Function Benefits",
+          "text": "Regulates muscle contraction and relaxation to stop spasms and cramps."
+        },
+        {
+          "title": "Nervous System Support",
+          "text": "Aids neurotransmission to regulate nerve impulses, reducing stress & anxiety."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Bis Glycinate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-bis-glycinate.jpg"
+    },
+    {
+      "slug": "magnesium-bis-glycinate",
+      "sourceSlug": "magnesium-bis-glycinate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-bis-glycinate",
+      "name": "Magnesium Bis Glycinate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Our fully reacted Magnesium Bisglycinate chelated —is a premium, high-quality form of magnesium designed for maximum results. our magnesium is naturally bonded with amino acids. This makes it incredibly easy for your body to absorb and 100% gentle on your stomach. It has a Superior Bioavailability. magnesium glycinate is a premium organo-mineral compound widely considered the gold standard for magnesium supplementation. It consists of one elemental magnesium ion chemically bound (chelated) to two molecules of glycine, the simplest amino acid.",
+      "cas": "14783-68-7",
+      "formula": "C₄H₈MgN₂O₄",
+      "iupac": "Magnesium bis(aminoacetate)",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Bis Glycinate",
+        "Molecular Formula": "C₄H₈MgN₂O₄",
+        "IUPAC Name": "Magnesium bis(aminoacetate)",
+        "CAS Registry No.": "14783-68-7",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Superior Bioavailability via Peptide Pathways",
+          "text": "Magnesium bisglycinate utilizes intestinal peptide pathways (PEPT1) for absorption, avoiding pH degradation and mineral competition to deliver significantly higher cellular uptake than inorganic magnesium."
+        },
+        {
+          "title": "Exceptional Gastrointestinal Tolerance",
+          "text": "Unlike inorganic salts, stable magnesium bisglycinate bypasses standard ion channels and avoids mineral competition by utilizing intestinal peptide pathways (PEPT1) for absorption. This unique metabolic route ensures significantly higher cellular uptake without relying on stomach acid breakdown."
+        },
+        {
+          "title": "Synergistic Calming & Neurological Profile",
+          "text": "he glycine ligand crosses the blood-brain barrier to promote GABA release and inhibit NMDA receptors. This dual action with magnesium provides targeted support for sleep, stress, anxiety, and muscle relaxation"
+        },
+        {
+          "title": "High Chemical Stability",
+          "text": "As a stable, fully reacted heterocyclic ring, this true chelate prevents magnesium from binding with dietary phytates, oxalates, or tannins, protecting the mineral from being blocked or wasted in the digestive tract."
+        },
+        {
+          "title": "Excellent Formulation Stability",
+          "text": "True chelates are chemically neutral and highly stable. Because they do not easily react with other ingredients (like vitamins C or B), they prevent degradation, off-flavors, and color changes—significantly extending your product's shelf-life."
+        },
+        {
+          "title": "Reliable Compressibility",
+          "text": "Unlike abrasive, unchelated mineral mixes, a fully chelated bis glycinate features a unique crystalline structure that binds beautifully under pressure. This ensures a smoother manufacturing run with less machine friction and fewer tablet defects like capping or laminating."
+        },
+        {
+          "title": "The Ultimate GLP-1 Combination Support",
+          "text": "Magnesium Bis glycinate Chelate mimics a protein to glide past your slowed stomach, safely relieving GLP-1 constipation without causing nausea or cramping. Once absorbed, it splits to instantly stop the leg cramps caused by rapid weight loss while calming your brain for deep sleep."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Bis Glycinate.png",
+      "flagship": true,
+      "image": "/assets/img/products/magnesium-bis-glycinate.jpg"
+    },
+    {
+      "slug": "magnesium-citrate",
+      "sourceSlug": "magnesium-citrate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-citrate",
+      "name": "Magnesium Citrate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya chemicals offers magnesium citrate a magnesium salt of citric acid widely recognized for its excellent bioavailability. It is used in various nutraceutical & dietary supplement applications, particularly in formulations promoting digestive, muscular, & metabolic health. Aditya chemical’s magnesium citrate is a trusted choice among industry professionals for its high-quality consistency, and formulation versatility.",
+      "cas": "59-51-8",
+      "formula": "C₁₂H₁₀Mg₃O₁₄",
+      "iupac": "Trimagnesium 2-hydroxypropane-1,2,3-tricarboxylate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Citrate",
+        "Molecular Formula": "C₁₂H₁₀Mg₃O₁₄",
+        "IUPAC Name": "Trimagnesium 2-hydroxypropane-1,2,3-tricarboxylate",
+        "CAS Registry No.": "59-51-8",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Acid-Reactive Gastric Dissolution",
+          "text": "Reacting smoothly with gastric HCl upon ingestion to release highly bioavailable free magnesium ions in the upper GI tract."
+        },
+        {
+          "title": "Excellent Solid Dosage Stability",
+          "text": "Features a highly reliable crystalline structure that resists moisture absorption from the air, preventing clumping and ensuring high stability during dry blending processes."
+        },
+        {
+          "title": "Low Chemical Reactivity in Dry Mixes",
+          "text": "Prevents premature chemical or degradation reactions when blended with water-sensitive vitamins or active botanicals in a dry matrix."
+        },
+        {
+          "title": "Neutral, Clean Taste Profile",
+          "text": "Because it does not dissolve instantly on the tongue, it completely avoids the bitter, astringent metallic taste common to highly soluble salts, making it very easy to flavour."
+        },
+        {
+          "title": "Superior Powder Flow & Processing",
+          "text": "Offers a predictable particle flow that resists caking, guaranteeing perfect mass uniformity and smooth running during high-speed encapsulation and tableting."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Citrate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-citrate.jpg"
+    },
+    {
+      "slug": "magnesium-creatine",
+      "sourceSlug": "magnesium-creatinine-2",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-creatinine-2",
+      "name": "Magnesium Creatine",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Magnesium creatine is a specialized organo-mineral compound engineered primarily for sports nutrition, strength conditioning, and cellular energy metabolism. Unlike standard physical blends of magnesium and creatine, this ingredient represents a fully reacted molecule where elemental magnesium is chemically bound to the organic ergogenic compound creatine.",
+      "cas": "290357-35-6",
+      "formula": "C₈H₁₆MgN₆O₄",
+      "iupac": "Magnesium;2-[carbamimidoyl(methyl)amino]acetate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Creatine",
+        "Molecular Formula": "C H MgN O8 16 6 4",
+        "IUPAC Name": "Magnesium;2-[carbamimidoyl(methyl)amino]acetate",
+        "CAS Registry No.": "290357-35-6",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Dual-Mechanism ATP Resynthesis",
+          "text": "It provides the raw substrate necessary for phosphocreatine storage, allowing"
+        },
+        {
+          "title": "The Creatine Role",
+          "text": "rapid donation of a phosphate group to turn ADP back into active ATP during high-intensity, short- duration anaerobic exercise. ATP cannot function or be synthesized independently; it must exist as a"
+        },
+        {
+          "title": "The Magnesium Role",
+          "text": "magnesium-ATP complex to be biologically active. By delivering both elements simultaneously, the molecule ensures that newly resynthesized ATP is immediately stabilized and functional."
+        },
+        {
+          "title": "Mitigation of GI Distress",
+          "text": "Smooth Digestion"
+        },
+        {
+          "title": "Mitigation of Muscle Cramping & Fasciculations",
+          "text": "Beyond just protecting the creatine, the bioavailable magnesium acts directly at the neuromuscular junction. It regulates calcium influx into muscle cells, directly preventing the cramping and involuntary twitching (fasciculations) often reported by heavy creatine users."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Creatine Chelate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-creatine-chelate.jpg"
+    },
+    {
+      "slug": "magnesium-gluconate",
+      "sourceSlug": "magnesium-gluconate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-gluconate",
+      "name": "Magnesium Gluconate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya chemical’s magnesium gluconate is a highly bioavailable mineral supplement praised for its superior absorption and gentle, stomach-friendly profile. Ideal for nutraceuticals, pharmaceuticals, and functional foods, it corrects deficiencies without the digestive discomfort common with other magnesium salts.",
+      "cas": "3632-91-5",
+      "formula": "C₁₂H₂₂MgO₁₄",
+      "iupac": "magnesium bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Gluconate",
+        "Molecular Formula": "C H MgO 12 22 14",
+        "IUPAC Name": "magnesium bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)",
+        "CAS Registry No.": "3632-91-5",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Dietary Supplement",
+          "text": "Boosts magnesium levels to treat or prevent deficiency; available in oral tablets, capsules, powders, and liquids."
+        },
+        {
+          "title": "Nutritional Fortification",
+          "text": "Added to foods and beverages to boost magnesium levels and help people meet their daily dietary requirements."
+        },
+        {
+          "title": "Pharmaceutical Formulations",
+          "text": "Used in oral medications for mild magnesium deficiency and intravenous (IV) solutions for severe cases."
+        },
+        {
+          "title": "Sports Nutrition",
+          "text": "Included in energy bars and drinks to support muscle function, electrolyte balance, and athletic recovery."
+        },
+        {
+          "title": "Cosmetics & Personal Care",
+          "text": "Added to skin and hair products to boost hydration, conditioning, and overall skin health."
+        },
+        {
+          "title": "Medicinal Uses",
+          "text": "Used in alternative medicine to help manage muscle cramps, migraines, high blood pressure, and PMS symptoms."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Gluconate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-gluconate.jpg"
+    },
+    {
+      "slug": "magnesium-l-pidolate",
+      "sourceSlug": "magnesium-pidolate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-pidolate",
+      "name": "Magnesium L-Pidolate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Magnesium pidolate, a compound where magnesium is chelated with pidolic acid (also known as pyroglutamic acid), unlike other magnesium salts, its unique chemical structure allows for enhanced bioavailability and physiological activity, making it a preferred choice in various therapeutic applications. One of the standout features of magnesium pidolate is its superior bioavailability compared to other magnesium compounds. Bioavailability refers to the proportion of a nutrient digested, absorbed, and made available for the body. Its high bioavailability means that it can be more efficiently utilized by the body, enhancing its therapeutic effects",
+      "cas": "62003-27-4",
+      "formula": "C₁₀H₁₂MgN₂O₆",
+      "iupac": "MAGNESIUM L-PIDOLATE Magnesium bis[(2S)-5-oxopyrrolidine-2-carboxylatel",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium L-Pidolate",
+        "Molecular Formula": "C H N O Mg10 12 2 6",
+        "IUPAC Name": "MAGNESIUM L-PIDOLATE Magnesium bis[(2S)-5-oxopyrrolidine-2-carboxylatel",
+        "CAS Registry No.": "62003-27-4",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Neurological & Cellular Penetration",
+          "text": "Pyroglutamate utilizes highly efficient active transport systems. It possesses a profound affinity for crossing the blood-brain barrier and quickly accessing intracellular environments, which makes it remarkably rapid at restoring systemic magnesium deficits."
+        },
+        {
+          "title": "Headache & Neuro-Prophylaxis",
+          "text": "its fast-acting efficacy in reducing the intensity, duration, and overall frequency of migraines and tension headaches."
+        },
+        {
+          "title": "Stable Elemental Yield",
+          "text": "Delivers a highly reliable, premium 8.0% to 9.5 % elemental magnesium payload, ensuring exact dosing for high-end neurological and cognitive formulations."
+        },
+        {
+          "title": "Ultimate Bioavailability Kinetics",
+          "text": "Formulated to maximize cellular uptake, Magnesium Pidolate utilizes specialized active transport pathways to deliver superior and rapid absorption compared to traditional mineral salts."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Pidolate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-pidolate.jpg"
+    },
+    {
+      "slug": "magnesium-glycerophosphate",
+      "sourceSlug": "magnesium-glycerophosphate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-glycerophosphate",
+      "name": "Magnesium Glycerophosphate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya Chemicals offers high-purity Magnesium Glycerophosphate, manufactured to consistent quality standards supporting pharmaceutical, nutraceutical, dietary, and commercial applications worldwide.",
+      "cas": "927-20-8",
+      "formula": "",
+      "iupac": "",
+      "shelfLife": "",
+      "identity": {
+        "Product Name": "Magnesium Glycerophosphate",
+        "CAS Registry No.": "927-20-8"
+      },
+      "features": [],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Bis Glycinate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-bis-glycinate.jpg"
+    },
+    {
+      "slug": "magnesium-lactate",
+      "sourceSlug": "magnesium-lactate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-lactate",
+      "name": "Magnesium Lactate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Magnesium lactate is a gentle, efficiently absorbed magnesium salt widely recognized for its excellent tolerability and metabolic support. It is valued in nutraceutical, dietary, and functional health formulations for its role in muscle function, electrolyte balance, and energy production. Aditya chemical’s magnesium lactate is ensuring flexibility for various dosage forms and compatibility with tablets, capsules, liquids, beverages, and powdered blends. With reliable purity, superior stability, and consistent performance, it remains a preferred choice for premium-quality magnesium formulations.",
+      "cas": "18917-93-6 (dihydrate)",
+      "formula": "C₆H₁₀MgO₆·2H₂O (dihydrate)",
+      "iupac": "MAGNESIUM",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Lactate",
+        "Molecular Formula": "C₆H₁₀MgO₆·2H₂O (dihydrate)",
+        "IUPAC Name": "MAGNESIUM",
+        "CAS Registry No.": "18917-93-6 (dihydrate)",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Exceptional GI Delicacy",
+          "text": "It stands out as one of the most naturally gentle organic salts on the human digestive tract, making it the preferred choice for sustained-release pharmaceutical tablets or patients requiring high chronic dosing."
+        },
+        {
+          "title": "Fortification Staple",
+          "text": "Extensively utilized in food, infant formula, and beverage fortification due to its smooth flavor profile and neutral impact on product mouthfeel."
+        },
+        {
+          "title": "Elemental Yield",
+          "text": "Provides ~12% elemental magnesium in its dihydrate form."
+        },
+        {
+          "title": "Gentle on the Stomach",
+          "text": "It is highly bioavailable and exceptionally gentle on the digestive tract, minimizing the laxative side effects common with other magnesium forms."
+        },
+        {
+          "title": "Ideal for Sustained Release",
+          "text": "Because of its smooth, steady absorption rate, it is the industry standard for long-lasting, time-released pharmaceutical tablets and chronic high dosing."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Lactate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-lactate.jpg"
+    },
+    {
+      "slug": "magnesium-malate",
+      "sourceSlug": "magnesium-malate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-malate",
+      "name": "Magnesium Malate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya chemicals offers magnesium malate a compound formed from magnesium and malic acid, offering excellent bioavailability and gastrointestinal tolerance. It is often included in nutraceutical and food formulations targeting energy production, muscle recovery, and metabolic health. Aditya chemical’s magnesium malate is a trusted raw material known for its consistent high quality, optimal particle size and density, and superior compatibility with various delivery formats.",
+      "cas": "869-06-7",
+      "formula": "C₄H₄MgO₅",
+      "iupac": "Magnesium (2+) 2-hydroxybutanedioate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Malate",
+        "Molecular Formula": "C H MgO4 4 5",
+        "IUPAC Name": "Magnesium (2+) 2-hydroxybutanedioate",
+        "CAS Registry No.": "869-06-7",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "The Fibromyalgia & Fatigue Benchmark",
+          "text": "Plays a vital role in the mitochondrial malate- aspartate shuttle, clinically favored for easing muscle pain, tenderness, and exhaustion associated with chronic fatigue."
+        },
+        {
+          "title": "Prolonged Muscle Endurance",
+          "text": "Actively helps clear lactic acid buildup from muscle tissues during physical exertion, drastically reducing muscle cramps and post-workout soreness."
+        },
+        {
+          "title": "Precise Elemental Yield",
+          "text": "Delivers a highly predictable, stable payload of ~14.3 % to 15.8 % elemental magnesium in its premium crystalline matrix."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Malate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-malate.jpg"
+    },
+    {
+      "slug": "magnesium-orotate",
+      "sourceSlug": "magnesium-orotate-2",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-orotate-2",
+      "name": "Magnesium Orotate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Aditya chemicals offers high-purity magnesium orotate, a highly bioavailable mineral complex formed from magnesium & orotic acid. Recognized for its superior absorption & role in supporting cellular energy production, cardiovascular function, & healthy metabolism, magnesium orotate is widely used in advanced nutraceutical formulations. Produced under stringent quality standards, aditya chemical’s magnesium orotate ensures exceptional consistency, purity, & performance for global supplement, functional nutrition.",
+      "cas": "34717-03-8",
+      "formula": "C₁₀H₆MgN₄O₈",
+      "iupac": "Magnesium;2,4-dioxo-(1H)-pyrimidine-6-carboxylate",
+      "shelfLife": "3 Years",
+      "identity": {
+        "Product Name": "Magnesium Orotate",
+        "Molecular Formula": "C H MgN O10 6 4 8",
+        "IUPAC Name": "Magnesium;2,4-dioxo-(1H)-pyrimidine-6-carboxylate",
+        "CAS Registry No.": "34717-03-8",
+        "Shelf Life": "3 Years"
+      },
+      "features": [
+        {
+          "title": "Myocardial Tissue Affinity",
+          "text": "Orotic acid acts as an exceptional vehicle, carrying magnesium deeply into compromised myocardial (heart muscle) cells. It supports the synthesis of glycogen and ATP stores within cardiac tissue under stress"
+        },
+        {
+          "title": "Supports heart health",
+          "text": "Magnesium orotate is often used to support heart function and muscle health, making it popular in supplements aimed at cardiovascular wellness."
+        },
+        {
+          "title": "Energy production",
+          "text": "Plays a role in the production of ATP, the body’s primary energy source"
+        },
+        {
+          "title": "Bone health supplements",
+          "text": "Magnesium plays a critical role in bone health, and Magnesium Orotate is often used in formulations designed to support strong bones and prevent osteoporosis."
+        },
+        {
+          "title": "Sports nutrition",
+          "text": "Due to its ability to aid in muscle recovery and reduce cramps, Magnesium Orotate is popular in sports nutrition supplements aimed at athletes and active individuals."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Orotate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-orotate.jpg"
+    },
+    {
+      "slug": "magnesium-succinate",
+      "sourceSlug": "magnesium-succinate-2",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-succinate-2",
+      "name": "Magnesium Succinate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Our magnesium succinate a stable, bioavailable form of magnesium chelated with succinic acid. It is widely used in formulations focused on metabolic balance, cellular energy cycles, and oxidative stress management. Aditya chemical’s magnesium succinate is a globally trusted ingredient, manufactured with strict quality standards to meet the requirements of advanced nutraceutical, dietary ingredients, food and pharmaceutical applications.",
+      "cas": "556-32-1",
+      "formula": "C₄H₄MgO₄",
+      "iupac": "Magnesium butanedioate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Succinate",
+        "Molecular Formula": "C H MgO4 4 4",
+        "IUPAC Name": "Magnesium butanedioate",
+        "CAS Registry No.": "556-32-1",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Cellular Energy Kinetics",
+          "text": "Because succinate bypasses the initial rate-limiting steps of the Krebs cycle, entering directly via complex II (succinate dehydrogenase), this form is exceptionally efficient for revitalizing mitochondrial ATP production."
+        },
+        {
+          "title": "Targeted Metabolic Support",
+          "text": "Ideal for premium formulations focusing on cellular energy, fatigue recovery, metabolic balance, and muscle wellness."
+        },
+        {
+          "title": "Stress & Oxidative Support",
+          "text": "Aids the body during periods of physical exhaustion by supporting stress reduction pathways and assisting in cellular antioxidant management. Suitable for tablets, capsules, and effervescent powders."
+        },
+        {
+          "title": "Excellent Formulation Versatility",
+          "text": "Possesses a highly stable crystalline matrix making it perfectly suited for manufacturing high-quality tablets, standard capsules, and fast- dissolving effervescent powders."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Succinate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-succinate.jpg"
+    },
+    {
+      "slug": "magnesium-taurinate",
+      "sourceSlug": "magnesium-taurinate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-taurinate",
+      "name": "Magnesium Taurinate/taurate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Magnesium taurinate (often referred to as magnesium taurate) is a highly specialized organo- mineral complex designed primarily for cardiovascular and neurological applications. It is formed by chemically bonding elemental magnesium with taurine, a sulfur-containing amino acid (amino sulfonic acid) that plays a critical role in cellular osmotic regulation and ion transport.",
+      "cas": "334824-43-0 / 92785-94-9",
+      "formula": "C₄H₁₂MgN₂O₆S₂",
+      "iupac": "Magnesium;2-aminoethanesulfonate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Taurinate/taurate",
+        "Molecular Formula": "C H MgN O S4 12 2 6 2",
+        "IUPAC Name": "Magnesium;2-aminoethanesulfonate",
+        "CAS Registry No.": "334824-43-0 / 92785-94-9",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Vascular Tone",
+          "text": "healthy blood pressure. Taurine regulates potassium currents and stabilizes heart cell membranes,"
+        },
+        {
+          "title": "Heart Rhythm",
+          "text": "complementing magnesium's role in maintaining steady cardiac rhythms."
+        },
+        {
+          "title": "Amino Acid Bioavailability",
+          "text": "Bypasses inefficient mineral channels by using specialized intestinal amino acid pathways, ensuring maximum absorption and higher blood magnesium levels."
+        },
+        {
+          "title": "Blood-Brain Barrier Penetration",
+          "text": "Taurine acts as a carrier molecule, easily guiding magnesium across the blood-brain barrier to calm excitotoxicity and protect neural pathways."
+        },
+        {
+          "title": "Superior GI Tolerance",
+          "text": "No Laxative Effect"
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Taurinate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-taurinate.jpg"
+    },
+    {
+      "slug": "magnesium-fumarate",
+      "sourceSlug": "magnesium-fumarate",
+      "sourceUrl": "https://www.adityachemicals.in/products/magnesium-fumarate",
+      "name": "Magnesium Fumarate",
+      "category": "Magnesium (Chelated Minerals)",
+      "description": "Magnesium fumarate is a highly bioavailable mineral salt used to prevent deficiency, support bone density, and aid in muscle and nerve function. It provides two essential components: elemental magnesium and fumaric acid, the latter being a cellular metabolite that assists the body's energy production cycles.",
+      "cas": "7704-71-4",
+      "formula": "C₄H₂MgO₄",
+      "iupac": "Magnesium;(E)-but-2-enedioate",
+      "shelfLife": "5 Years",
+      "identity": {
+        "Product Name": "Magnesium Fumarate",
+        "Molecular Formula": "C H MgO4 2 4",
+        "IUPAC Name": "Magnesium;(E)-but-2-enedioate",
+        "CAS Registry No.": "7704-71-4",
+        "Shelf Life": "5 Years"
+      },
+      "features": [
+        {
+          "title": "Mitochondrial Energy Resiliency",
+          "text": "Enters the cellular Krebs cycle directly to maintain ATP energy production and cell homeostasis during metabolic stress or low-oxygen conditions."
+        },
+        {
+          "title": "Superior Industrial Stability",
+          "text": "A highly stable, non-hygroscopic powder that resists clumping, ensuring an exceptional shelf life and smooth running through high-speed tableting machinery."
+        },
+        {
+          "title": "High Elemental Payload",
+          "text": "Delivers a powerful ~ 17.0% elemental magnesium yield, allowing formulators to hit therapeutic targets with smaller capsule sizes or lower tablet weights."
+        },
+        {
+          "title": "Rapid Gastrointestinal Dissolution",
+          "text": "Dissolves rapidly upon contact with stomach acid, ensuring the free magnesium ions are quickly freed up for fast systemic absorption in the upper digestive tract."
+        },
+        {
+          "title": "Anti-Stress & Fatigue Formulations",
+          "text": "Ideal for premium therapeutic products targeting physical exhaustion, fibromyalgia support, and chronic fatigue recovery."
+        }
+      ],
+      "quality": "Manufactured under stringent quality control systems in compliance with BP/EP/USP/FCC standards. Each batch is strictly tested to ensure purity, potency, and safety for use in nutraceutical, pharmaceutical, and food formulations worldwide.",
+      "sourceImage": "https://www.adityachemicals.com/aditya chemicals images/Magnesium/product card/Magnesium Bis Glycinate.png",
+      "flagship": false,
+      "image": "/assets/img/products/magnesium-bis-glycinate.jpg"
+    }
+  ]
+}

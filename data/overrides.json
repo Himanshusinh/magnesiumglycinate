@@ -1,0 +1,27 @@
+{
+  "_comment": "Corrections merged on top of scraped data by scripts/sync.mjs, keyed by product slug. Only used to render formulas whose subscripts are garbled on the source page (e.g. 'C H MgO4 4 5'). Any field replaces the scraped value; \"replace\": [[find, with]] fixes text; \"exclude\": true hides a product.",
+  "magnesium-creatine": {
+    "formula": "C₈H₁₆MgN₆O₄"
+  },
+  "magnesium-gluconate": {
+    "formula": "C₁₂H₂₂MgO₁₄"
+  },
+  "magnesium-l-pidolate": {
+    "formula": "C₁₀H₁₂MgN₂O₆"
+  },
+  "magnesium-malate": {
+    "formula": "C₄H₄MgO₅"
+  },
+  "magnesium-orotate": {
+    "formula": "C₁₀H₆MgN₄O₈"
+  },
+  "magnesium-succinate": {
+    "formula": "C₄H₄MgO₄"
+  },
+  "magnesium-taurinate": {
+    "formula": "C₄H₁₂MgN₂O₆S₂"
+  },
+  "magnesium-fumarate": {
+    "formula": "C₄H₂MgO₄"
+  }
+}

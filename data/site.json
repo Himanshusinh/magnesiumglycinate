@@ -1,0 +1,35 @@
+{
+  "domain": "https://magnesiumglycinate.com",
+  "name": "MagnesiumGlycinate.com",
+  "tagline": "Bulk Magnesium Bisglycinate & Magnesium Chelates by Aditya Chemicals",
+  "company": "Aditya Chemicals",
+  "companyUrl": "https://www.adityachemicals.in",
+  "brochure": "https://www.adityachemicals.in/IFT_Brochure.pdf",
+  "email": "info@adityachemicals.com",
+  "phone": "079 2685 4545",
+  "phoneIntl": "+917926854545",
+  "whatsapp": "",
+  "formEndpoint": "",
+  "gaId": "",
+  "addresses": [
+    { "label": "Corporate Office", "text": "204, President Plaza, Nr. Thaltej Cross Road, S. G. Highway, Ahmedabad - 380054, Gujarat, India" },
+    { "label": "Manufacturing Plant", "text": "24-25, Ajanta Industrial Estate, At. Vasna - Iyava, Tal. Sanand, Dist.: Ahmedabad - 382110, Gujarat, India" },
+    { "label": "USA Warehouse", "text": "6550 E Roger Cir, Boca Raton, FL 33487, USA" }
+  ],
+  "stats": [
+    { "value": "1992", "label": "Established" },
+    { "value": "30+", "label": "Years Experience" },
+    { "value": "10+", "label": "Countries Served" },
+    { "value": "15", "label": "Magnesium Compounds" }
+  ],
+  "certifications": [
+    { "name": "GMP", "detail": "Certified manufacturing standard for APIs" },
+    { "name": "ICH Q7", "detail": "SGS-certified API Good Manufacturing Practices" },
+    { "name": "ISO 9001:2015", "detail": "Quality management system" },
+    { "name": "FSSC 22000", "detail": "GFSI food safety system certification" },
+    { "name": "Halal", "detail": "Global dietary Halal compliance" },
+    { "name": "Kosher", "detail": "Jewish dietary laws certification" },
+    { "name": "GLP", "detail": "Good Laboratory Practices for QC testing" },
+    { "name": "FSSAI", "detail": "Food Safety Standards Authority of India" }
+  ]
+}
